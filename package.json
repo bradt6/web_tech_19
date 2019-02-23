@@ -1,0 +1,19 @@
+{
+  "name": "web_tech_19",
+  "version": "1.0.0",
+  "description": "2019 web techs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradt6/web_tech_19.git"
+  },
+  "author": "Bradley Thurlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradt6/web_tech_19/issues"
+  },
+  "homepage": "https://github.com/bradt6/web_tech_19#readme"
+}
